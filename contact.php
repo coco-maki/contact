@@ -13,7 +13,7 @@ mb_internal_encoding("UTF-8");
 
 // 簡単なバリデーションとデータの取得
 if ($_POST) {
-    $to = 'hatsu.ngo2023@gmail.com'; // 宛先のメールアドレス
+    $to = 'xxx@gmail.com'; // 宛先のメールアドレス
     $subject = 'お問い合わせフォームからの送信'; // メールの件名
 
     //↓以下は、送信するメールの本文です。1行ずつ$messageに追記する形です。
